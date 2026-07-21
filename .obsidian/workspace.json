@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "7d8057b3caf2006b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc668509dcd1fbfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1382abd77cc2f2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week1/실습-mlagents_셋업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "실습-mlagents_셋업"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fb39c4152fabe62",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc44c5e5d3532a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5e7d5b9adff9f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c22e6424f5d9c43c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "01f0501174d1ed5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf69ed13a9f41982",
+    "type": "split",
+    "children": [
+      {
+        "id": "2447b64c5cb90fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4cdb58559db323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week1/실습-mlagents_셋업.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "실습-mlagents_셋업 의 백링크"
+            }
+          },
+          {
+            "id": "9fd0e14f7aaa4817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week1/실습-mlagents_셋업.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "실습-mlagents_셋업 의 나가는 링크"
+            }
+          },
+          {
+            "id": "0475aa2612cd40ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3cf3be12fde20d7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "1389b5fa16fe6c10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week1/실습-mlagents_셋업.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "실습-mlagents_셋업 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "1382abd77cc2f2e2",
+  "lastOpenFiles": [
+    "Library/BurstCache/JIT/BurstCacheManifest.cm",
+    "Library/expandedItems",
+    "Library/LastSceneManagerSetup.txt",
+    "Temp/UnityTempFile-3350cf4ae7aea4088a6516f7de9638b3",
+    "Library/ShaderCache/compute/NMS50d1/00/baec0324e3337648dbe9fd365c9f3c13.bin",
+    "Library/ShaderCache/shader/GlobalPoolc81c/00/75a9899f6a3fea3c9e16884c07bf580b.bin",
+    "Logs/shadercompiler-UnityShaderCompiler-11.log",
+    "Library/ShaderCache/shader/LayoutSwitchBlockedAxisf9a9/00/4d45620bbfa8670e49ded6abcd6ec5b1.bin",
+    "Logs/shadercompiler-UnityShaderCompiler-10.log",
+    "Library/ShaderCache/shader/ScaleBiasf556/00/778b1da1fb2ac1532fd3387e84fb552f.bin",
+    "Logs/shadercompiler-UnityShaderCompiler-9.log",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst_aot_settings.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-noalias.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-inspector.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-noalias-vectorized.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-menu.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-alias.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-alias-vectorized.png",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-skiplocalsinit.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-overview.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-loop-vectorization.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-hint.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-constant.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-assumerange.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/index.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/modding-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-burst-menu.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/getting-started.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-reference-overview.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-burst-inspector.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/debugging-profiling-tools.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-type-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-system-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-string-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-static-read-only-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-shared-static.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-language-support.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-hpc-overview.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-function-pointers.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-calling-burst-code.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics-processors.md",
+    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics-neon.md",
+    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/updated-test-runner-window.png",
+    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/test-runner-window.png",
+    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/test-assembly-folder.png"
+  ]
+}
