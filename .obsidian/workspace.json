@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week1/실습-mlagents_셋업.md",
+                "file": "week3/Sensors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실습-mlagents_셋업"
+              "title": "Sensors"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week1/실습-mlagents_셋업.md",
+                "file": "week2/이론-에이전트_설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "실습-mlagents_셋업 의 백링크"
+              "title": "이론-에이전트_설계 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week1/실습-mlagents_셋업.md",
+                "file": "week2/이론-에이전트_설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "실습-mlagents_셋업 의 나가는 링크"
+              "title": "이론-에이전트_설계 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week1/실습-mlagents_셋업.md",
+                "file": "week2/이론-에이전트_설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "실습-mlagents_셋업 의 개요"
+              "title": "이론-에이전트_설계 의 개요"
             }
           }
         ]
@@ -185,51 +185,51 @@
   },
   "active": "1382abd77cc2f2e2",
   "lastOpenFiles": [
-    "Library/BurstCache/JIT/BurstCacheManifest.cm",
-    "Library/expandedItems",
-    "Library/LastSceneManagerSetup.txt",
-    "Temp/UnityTempFile-3350cf4ae7aea4088a6516f7de9638b3",
-    "Library/ShaderCache/compute/NMS50d1/00/baec0324e3337648dbe9fd365c9f3c13.bin",
-    "Library/ShaderCache/shader/GlobalPoolc81c/00/75a9899f6a3fea3c9e16884c07bf580b.bin",
-    "Logs/shadercompiler-UnityShaderCompiler-11.log",
-    "Library/ShaderCache/shader/LayoutSwitchBlockedAxisf9a9/00/4d45620bbfa8670e49ded6abcd6ec5b1.bin",
-    "Logs/shadercompiler-UnityShaderCompiler-10.log",
-    "Library/ShaderCache/shader/ScaleBiasf556/00/778b1da1fb2ac1532fd3387e84fb552f.bin",
-    "Logs/shadercompiler-UnityShaderCompiler-9.log",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst_aot_settings.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-noalias.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-inspector.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-noalias-vectorized.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-menu.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-alias.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-alias-vectorized.png",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-skiplocalsinit.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-overview.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-loop-vectorization.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-hint.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-constant.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/optimization-assumerange.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/index.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/modding-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-burst-menu.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/getting-started.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-reference-overview.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/editor-burst-inspector.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/debugging-profiling-tools.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-type-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-system-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-string-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-static-read-only-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-shared-static.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-language-support.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-hpc-overview.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-function-pointers.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-calling-burst-code.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics-processors.md",
-    "Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/csharp-burst-intrinsics-neon.md",
-    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/updated-test-runner-window.png",
-    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/test-runner-window.png",
-    "Library/PackageCache/com.unity.test-framework@78fc86e3183e/Documentation~/images/test-assembly-folder.png"
+    "week3/FoodCollector/Temp/ADB-Refresh8bf08a163416241749a6c8327ba24509",
+    "week3/FoodCollector/Temp/ADB-Refresh40fcf2c9aeb364d95b4656a53a637526",
+    "week3/FoodCollector/Temp/ADB-Refresh3c90fc39c31904377a4b7be514e3382c",
+    "week3/FoodCollector/Temp/ADB-Refresh3cf32b8b32d444119b82056a62e4425c",
+    "week3/FoodCollector/Temp/ADB-Refresh5d876bb0d2b0249c585a705d7af9c6e9",
+    "week3/FoodCollector/Library/Artifacts/40/40b98c996c935d7b2820467a4b54cfd9",
+    "week3/FoodCollector/Temp/ADB-Refreshcffeb01ea4a6b40508b890f5a1fcfd03",
+    "week3/FoodCollector/Temp/ADB-Refreshdf1358629927f47b392ae8ba0563470f",
+    "week3/FoodCollector/Library/ProtocolInstance.json",
+    "week3/FoodCollector/Temp/ADB-Refreshac4e239730e0240debcb27a07f6fd7be",
+    "week3/FoodCollector/Temp/ADB-Refresh2667b1ae2da784e55b44871a11bd09e6",
+    "week3/FoodCollector/CNN_TRAINING.md",
+    "week3/FoodCollector.md",
+    "week1/이론-강화학습_기초.md",
+    "week1/실습-mlagents_셋업.md",
+    "week1/assets/image4.png",
+    "week1/assets/image3.png",
+    "week1/assets/image2.png",
+    "week1/assets/image1.png",
+    "week3/Sensors.md",
+    "week3/TensorBoard.md",
+    "week2/이론-ml_agents_개요.md",
+    "week2/이론-에이전트_설계.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/Textures/BayerMatrix.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/Documentation~/TableOfContents.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/Documentation~/api_index.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/Documentation~/index.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/Third Party Notices.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/LICENSE.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.universal@5251a026f8b9/CHANGELOG.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Editor/Lighting/Icons/LightUnitIcons/d_VeryBrightSun@2x.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Editor/Lighting/Icons/LightUnitIcons/d_VeryBrightSun.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Editor/Lighting/Icons/LightUnitIcons/d_SunriseSunset@2x.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Editor/Lighting/Icons/LightUnitIcons/d_SunriseSunset.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Editor/Lighting/Icons/LightUnitIcons/d_SoftAreaLight@2x.png",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/Common/lens-flare-data-driven-asset.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/Common/light-anchor.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/Common/lens-flare-data-driven-component.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/whats-new.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/whats-new-17.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/whats-new-13.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/whats-new-12.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-using-scriptable-render-context.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-custom.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-custom-getting-started.md",
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-creating-simple-render-loop.md"
   ]
 }

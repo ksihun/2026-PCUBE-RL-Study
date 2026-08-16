@@ -18,8 +18,8 @@ public class Collectible : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag(playerTag))
-            Respawn();
+        // if (other.CompareTag(playerTag))
+        //     Respawn();
     }
 
     public void Respawn()

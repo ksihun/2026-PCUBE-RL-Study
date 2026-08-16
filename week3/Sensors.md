@@ -11,14 +11,14 @@
 
 ## 주요 센서 컴포넌트
 
-| 센서 | 컴포넌트 | 무엇을 관측 | 언제 쓰나 |
-|------|----------|-------------|-----------|
-| **Ray Perception** | `RayPerceptionSensorComponent3D` / `2D` | 부채꼴로 레이를 쏴, 맞은 물체의 **태그·거리** | "주변에 뭐가 어디 있나"를 태그로 감지. FoodCollector에서 고기/당근/벽 탐지 |
-| **Camera** | `CameraSensorComponent` | 카메라 화면 픽셀(이미지) | 시각 정보 그대로 학습(CNN). 관측이 복잡할 때 |
-| **Render Texture** | `RenderTextureSensorComponent` | RenderTexture 픽셀 | 미니맵 등 특정 렌더 결과를 관측 |
-| **Grid** | `GridSensorComponent` | 에이전트 주변을 격자로 나눠 각 칸의 물체 감지 | 탑다운 격자 환경(주변 배치를 한눈에) |
-| **Buffer** | `BufferSensorComponent` | **개수가 변하는** 물체 목록(각 항목이 벡터) | 적/아이템 수가 매 순간 다를 때. 어텐션으로 처리 |
-| **Physics** | `RigidBodySensorComponent` / `JointSensorComponent` | Rigidbody·관절의 물리 상태 | 로봇·관절 제어 |
+| 센서                 | 컴포넌트                                                | 무엇을 관측                       | 언제 쓰나                                              |
+| ------------------ | --------------------------------------------------- | ---------------------------- | -------------------------------------------------- |
+| **Ray Perception** | `RayPerceptionSensorComponent3D` / `2D`             | 부채꼴로 레이를 쏴, 맞은 물체의 **태그·거리** | "주변에 뭐가 어디 있나"를 태그로 감지. FoodCollector에서 고기/당근/벽 탐지 |
+| **Camera**         | `CameraSensorComponent`                             | 카메라 화면 픽셀(이미지)               | 시각 정보 그대로 학습(CNN). 관측이 복잡할 때                       |
+| **Render Texture** | `RenderTextureSensorComponent`                      | RenderTexture 픽셀             | 미니맵 등 특정 렌더 결과를 관측                                 |
+| **Grid**           | `GridSensorComponent`                               | 에이전트 주변을 격자로 나눠 각 칸의 물체 감지   | 탑다운 격자 환경(주변 배치를 한눈에)                              |
+| **Buffer**         | `BufferSensorComponent`                             | **개수가 변하는** 물체 목록(각 항목이 벡터)  | 적/아이템 수가 매 순간 다를 때. 어텐션으로 처리                       |
+| **Physics**        | `RigidBodySensorComponent` / `JointSensorComponent` | Rigidbody·관절의 물리 상태          | 로봇·관절 제어                                           |
 
 ---
 
