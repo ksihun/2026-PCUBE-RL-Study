@@ -27,6 +27,15 @@
       },
       "hash": "11836003a5e2ffcb7715ecec7e1fbb9d9cdb5bb8"
     },
+    "com.notnull92.hera-agent-unity": {
+      "version": "https://github.com/NotNull92/hera-agent-unity.git?path=AgentConnector",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "62eef7e538624e5db11181168db0c3d71c1ca138"
+    },
     "com.unity.ai.inference": {
       "version": "2.6.1",
       "depth": 1,

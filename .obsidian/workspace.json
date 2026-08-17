@@ -185,17 +185,18 @@
   },
   "active": "1382abd77cc2f2e2",
   "lastOpenFiles": [
-    "week3/FoodCollector/Temp/ADB-Refresh8bf08a163416241749a6c8327ba24509",
-    "week3/FoodCollector/Temp/ADB-Refresh40fcf2c9aeb364d95b4656a53a637526",
-    "week3/FoodCollector/Temp/ADB-Refresh3c90fc39c31904377a4b7be514e3382c",
-    "week3/FoodCollector/Temp/ADB-Refresh3cf32b8b32d444119b82056a62e4425c",
-    "week3/FoodCollector/Temp/ADB-Refresh5d876bb0d2b0249c585a705d7af9c6e9",
-    "week3/FoodCollector/Library/Artifacts/40/40b98c996c935d7b2820467a4b54cfd9",
-    "week3/FoodCollector/Temp/ADB-Refreshcffeb01ea4a6b40508b890f5a1fcfd03",
-    "week3/FoodCollector/Temp/ADB-Refreshdf1358629927f47b392ae8ba0563470f",
     "week3/FoodCollector/Library/ProtocolInstance.json",
-    "week3/FoodCollector/Temp/ADB-Refreshac4e239730e0240debcb27a07f6fd7be",
-    "week3/FoodCollector/Temp/ADB-Refresh2667b1ae2da784e55b44871a11bd09e6",
+    "week3/FoodCollector/Library/Artifacts/29/2962d19a8321e3fed1ba51c89a8c386f",
+    "week3/FoodCollector/Temp/ADB-Refresh97248aa000dcf45c9bafb4ed4efb4b9d",
+    "week3/FoodCollector/Temp/ADB-Refreshd4e0f84823a9a4da2830da09e8a0055e",
+    "week3/FoodCollector/Library/Artifacts/31/31a3ff946983398e65b9225f5b160aeb",
+    "week3/FoodCollector/Assets/FoodCollectorCamera.onnx.meta",
+    "week3/FoodCollector/Temp/ADB-Refresh605be5073316b46b8ac5299bc8b425c4/62f80b8c05c2c4fdab7f584b8061a37c",
+    "week3/FoodCollector/Temp/ADB-Refresh605be5073316b46b8ac5299bc8b425c4",
+    "week3/FoodCollector/Assets/FoodCollectorCamera.onnx",
+    "week3/FoodCollector/Temp/ADB-Refresh8409f47ad2ccd4dcbaf01022d6b22c91",
+    "week3/FoodCollector/Temp/ADB-Refresh3e7db02f0caeb4c3eb9908e7c9fe6d77",
+    "week3/FoodCollector/Library/PackageCache/com.notnull92.hera-agent-unity@41c08c84330f/LICENSE.md",
     "week3/FoodCollector/CNN_TRAINING.md",
     "week3/FoodCollector.md",
     "week1/이론-강화학습_기초.md",
@@ -229,7 +230,6 @@
     "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/whats-new-12.md",
     "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-using-scriptable-render-context.md",
     "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-custom.md",
-    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-custom-getting-started.md",
-    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-creating-simple-render-loop.md"
+    "week3/FoodCollector/Library/PackageCache/com.unity.render-pipelines.core@943f3af6fe14/Documentation~/srp-custom-getting-started.md"
   ]
 }
