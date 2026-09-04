@@ -8,6 +8,9 @@ public class SoccerBallController : MonoBehaviour
     public string redGoalTag; //will be used to check if collided with red goal
     public string blueGoalTag; //will be used to check if collided with blue goal
 
+    AgentSoccer m_LastTouchAgent;
+    bool m_GoalHandled;
+
     void Start()
     {
         envController = area.GetComponent<SoccerEnvController>();
@@ -15,13 +18,29 @@ public class SoccerBallController : MonoBehaviour
 
     void OnCollisionEnter(Collision col)
     {
+        if (m_GoalHandled)
+            return;
+
         if (col.gameObject.CompareTag(redGoalTag)) //ball touched red goal
         {
-            envController.GoalTouched(Team.Blue);
+            m_GoalHandled = true;
+            envController.GoalTouched(Team.Blue, m_LastTouchAgent);
         }
-        if (col.gameObject.CompareTag(blueGoalTag)) //ball touched blue goal
+        else if (col.gameObject.CompareTag(blueGoalTag)) //ball touched blue goal
         {
-            envController.GoalTouched(Team.Red);
+            m_GoalHandled = true;
+            envController.GoalTouched(Team.Red, m_LastTouchAgent);
         }
+    }
+
+    public void RecordTouch(AgentSoccer agent)
+    {
+        m_LastTouchAgent = agent;
+    }
+
+    public void ClearLastTouch()
+    {
+        m_LastTouchAgent = null;
+        m_GoalHandled = false;
     }
 }
